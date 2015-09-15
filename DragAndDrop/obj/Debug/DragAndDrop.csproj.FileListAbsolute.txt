@@ -1,0 +1,9 @@
+c:\users\tkuya\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+c:\users\tkuya\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
+c:\users\tkuya\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
+c:\users\tkuya\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csprojResolveAssemblyReference.cache
+c:\users\tkuya\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+c:\users\tkuya\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+c:\users\tkuya\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+c:\users\tkuya\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+c:\users\tkuya\documents\visual studio 2013\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
