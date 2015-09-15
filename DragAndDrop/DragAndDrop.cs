@@ -10,7 +10,7 @@ namespace DragAndDrop
 {
     class DragAndDrop
     {
-        /* 以下の処理をドラッグアンドドロップを実装したいフォームに上書きし、適宜変更すること
+        /* ドラッグアンドドロップを実装したいフォームにコメントアウト部の処理を上書きし、適宜変更すること
         public Form1()
         {
             InitializeComponent();
